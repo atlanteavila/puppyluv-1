@@ -57,9 +57,10 @@ Running `test` will run the unit tests with karma.
 
 View the project roadmap [here](https://waffle.io/bananasbabay/puppyluv)
 
-
 ## Contributing
 
 See [CONTRIBUTING.md](https://waffle.io/bananasbabay/puppyluv) for contribution guidelines.
 
 [![Throughput Graph](https://graphs.waffle.io/bananasbabay/puppyluv/throughput.svg)](https://waffle.io/bananasbabay/puppyluv/metrics/throughput)
+
+![Alt text](http://image-store.slidesharecdn.com/2dcecc38-0268-4f03-bce0-b81da250adcf-large.png "Puppy Love Screen Shot")
