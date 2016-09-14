@@ -2,6 +2,8 @@
 [![Stories in In Progress](https://badge.waffle.io/bananasbabay/puppyluv.png?label=ready&title=InProgress)](https://waffle.io/bananasbabay/puppyluv)
 [![Stories in Done](https://badge.waffle.io/bananasbabay/puppyluv.png?label=ready&title=Done)](https://waffle.io/bananasbabay/puppyluv)
 
+![Alt text](http://image-store.slidesharecdn.com/2dcecc38-0268-4f03-bce0-b81da250adcf-large.png "Puppy Love Screen Shot")
+
 # Puppy Love
 
 > Puppy Love lets you connect the dog that you care for with another dog that has an owner with the same thought process and love for their dog. 
